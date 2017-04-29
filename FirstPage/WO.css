@@ -41,3 +41,12 @@ img {
     margin-top: -375px;
 }
 
+#text {
+    height: 20px;
+    width:250px;
+}
+
+#clickme{
+    height:30px;
+    width: 100px;
+}
