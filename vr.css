@@ -1,0 +1,24 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+body {
+    color:white;
+   background-image: url("https://media.giphy.com/media/11NHi0jvkDvf2g/giphy.gif");
+   font-family:Verdana,sans-serif;
+}
+#animate {
+    background-image: url("https://media.giphy.com/media/11NHi0jvkDvf2g/giphy.gif");
+    position:fixed;
+    
+}
+h1{
+    text-align:center;
+}
+h2{
+    
+    text-align:center;
+}
+
