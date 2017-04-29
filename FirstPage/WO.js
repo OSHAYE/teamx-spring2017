@@ -12,7 +12,7 @@ $(document).ready(function(){
     $(".button").hide();
     
     $("#two").click(function() {
-        $("body").append('<img src = "https://goo.gl/images/oiWybF">');
+        $("body").append('<img src = "img.png">');
     });
 });
 // $("#button").click(function(){
